@@ -12,7 +12,6 @@ spec:
     - name: api
       service: api
       port: 8000
-      max-conns: 32
       healthCheck:
         enable: true
         path: /api/stats
