@@ -4,7 +4,7 @@ kind: VirtualServer
 metadata:
   name: brewz
 spec:
-  host: brewz.xc.wardbopp.com
+  host: brewz.nic.xc.wardbopp.com
   tls:
     secret: brewz-tls
   policies:
