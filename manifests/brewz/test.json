@@ -1,5 +1,0 @@
-{"policy":{"applicationLanguage":"utf-8","blocking-settings":{"http-protocols":[{"description":"Header
-      name with no header
-      value","enabled":true}],"violations":[{"alarm":true,"block":true,"name":"VIOL_HTTP_PROTOCOL"}]},"enforcementMode":"blocking","name":"portal","signature-sets":[{"alarm":true,"block":true,"name":"Medium
-      Accuracy
-      Signatures"}],"signatures":[{"enabled":false,"signatureId":200010015}],"template":{"name":"POLICY_TEMPLATE_NGINX_BASE"}}}
