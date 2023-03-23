@@ -38,7 +38,7 @@ spec:
           action:
             pass: spa-dark
       action:
-        pass: spa-dark
+        pass: spa
     - path: /api
       policies:
         - name: rate-limit-policy
